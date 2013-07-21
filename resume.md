@@ -29,15 +29,16 @@
 
 * ### *Protocol Engineer* of Mediatek
 	* 2010--2012
-	* In charge of ???
+	* In charge of maintenance and development of modules in MAC layer.
 
-* #### *Administrative Assistent* of Little Giant Chinese Chamber Orchestra
+* #### *Administrative Assistant* of Little Giant Chinese Chamber Orchestra
 	* 2005--2007
-	
+	* Held several concerts and cooperated with many professional musicians.
 
 * #### *Orchestra Leader* of National Taiwan University Chinese Orchestra  
 	* 2005--2006
-
+	* In charge of administration of the whole orchestra, and held a performing tour in Taiwan.
+	
 
 
 ## Education
