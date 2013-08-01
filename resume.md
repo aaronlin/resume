@@ -30,7 +30,7 @@
 	* *Lead developer* of Mood functionality of Mymix Radio  
 	  (shipped in newest KKBOX software and in Utapass, a KDDI branded mobile radio service)
 		* Helped to organize genre/year meta to provide a radio service based on genre/year/mood
-		* Designed and performed classification of million of songs
+		* Developed and performed classification of million of songs
 		* Evaluated and tuned the system
 		* Provided such functionality across all the served countries, ex: Taiwan, Thailand, Malaysia, etc.
 	* *Lead developer* of Tap Game (shipped in newest KKBOX mobile apps)
@@ -47,8 +47,7 @@
 * ### *Administrative Assistant* of Little Giant Chinese Chamber Orchestra
 	* 2005--2007
 	* Held several concerts and cooperated with professional musicians
-	* Packed and transported musical instruments
-	* Changed the stage settings during the interval
+    * Helped to do administrative jobs
 
 * ### *Orchestra Leader* of National Taiwan University Chinese Orchestra  
 	* 2005--2006
@@ -65,7 +64,7 @@
 	* Master thesis: *Exploiting Online Tags for Music Emotion Classification*
 		* Collected and cleaned data for composing a dataset with about 7,000 songs from Youtube
 		* Developed a tag utilization framework of emotion
-		* Utilized methods to encounter data-imbalance problem easily found in online data
+ 		* Utilized methods to encounter data-imbalance problem easily found in online data 
 
 * ### *Bachelor of Science* of Electrical Engineering in National Taiwan University  
 	* 2003--2007
